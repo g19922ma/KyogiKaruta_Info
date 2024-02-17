@@ -2,8 +2,7 @@
 
 たのしい競技かるたの世界：
 
-https://qurihara.github.io/MVPresentationExamples/
-
+https://g19922ma.github.io/KyogiKaruta_Info/
 
 karuta：
 
@@ -18,5 +17,5 @@ karuta：
 
 サンプルURL:
 
-https://qurihara.github.io/MVPresentationExamples/karuta/0007.txt
+https://g19922ma.github.io/KyogiKaruta_Info/karuta/0007.txt
 
