@@ -1,6 +1,5 @@
-# MVPresentationExamples
 
-たのしい競技かるたの世界：
+# たのしい競技かるたの世界：
 
 https://g19922ma.github.io/KyogiKaruta_Info/
 
